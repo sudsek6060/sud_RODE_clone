@@ -10,7 +10,14 @@
 - This is my third project using **Tailwind CSS**, in this project the responsive part is bit of challenging for me here I used 2 differnt kind of image for the same section one is for bigger screens and one for small screens.After finishing this I am so confident that i can build some really good responsive webpages using  **Tailwind CSS**.
 
 
-![Screenshot](./assets/screenshot.png "Template Screenshot")
+![Screenshot](./Screenshots/Screenshot%20(1).png "Template Screenshot")
+![Screenshot](./Screenshots/Screenshot%20(2).png "Template Screenshot")
+![Screenshot](./Screenshots/Screenshot%20(3).png "Template Screenshot")
+![Screenshot](./Screenshots/Screenshot%20(4).png "Template Screenshot")
+![Screenshot](./Screenshots/Screenshot%20(5).png "Template Screenshot")
+![Screenshot](./Screenshots/Screenshot%20(6).png "Template Screenshot")
+![Screenshot](./Screenshots/Screenshot%20(7).png "Template Screenshot")
+![Screenshot](./Screenshots/Screenshot%20(8).png "Template Screenshot")
 
 
 ---
